@@ -3,6 +3,7 @@
         <title>Tablas HTMl</title>
     </head>
     <body>
+        <h1>Tabla del increible Samuel</h1>
         <table border="1">
             <tr>
             <td><b>Fecha actual</b></td>
